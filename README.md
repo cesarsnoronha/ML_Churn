@@ -9,27 +9,27 @@ Este dataset é amplamente utilizado para a construção de modelos preditivos d
 
 ### Features
 
-customerID → Identificador único do cliente
-gender → Gênero do cliente (masculino ou feminino).
-SeniorCitizen → Se o cliente é idoso (1 = Sim, 0 = Não).
-Partner → Se o cliente tem parceiro/parceira (Sim ou Não).
-Dependents → Se o cliente tem dependentes (filhos, outros familiares).
-tenure → Tempo de permanência na empresa (em meses).
-PhoneService → Se o cliente possui serviço de telefone (Sim ou Não).
-MultipleLines → Se o cliente possui múltiplas linhas telefônicas (Sim, Não ou Não possui serviço telefônico).
-InternetService → Tipo de serviço de internet (DSL, fibra ótica ou nenhum).
-OnlineSecurity → Se o cliente possui segurança online (proteção contra vírus).
-OnlineBackup → Se o cliente possui serviço de backup online.
-DeviceProtection → Se o cliente possui proteção para seus dispositivos (manutenção, suporte).
-TechSupport → Se o cliente possui suporte técnico.
-StreamingTV → Se o cliente possui serviço de streaming de TV.
-StreamingMovies → Se o cliente possui serviço de streaming de filmes.
-Contract → Tipo de contrato do cliente (mensal, anual, bianual).
-PaperlessBilling → Se o cliente recebe a fatura apenas online (sem papel).
-PaymentMethod → Método de pagamento (boleto eletrônico, cheque enviado, débito automático, cartão de crédito automático).
-MonthlyCharges → Valor da fatura mensal do cliente (em dólares).
-TotalCharges → Valor total pago pelo cliente até o momento (em dólares).
-Churn → Se o cliente cancelou o serviço (Sim = cancelou, Não = ainda está ativo).
+- customerID → Identificador único do cliente
+- gender → Gênero do cliente (masculino ou feminino).
+- SeniorCitizen → Se o cliente é idoso (1 = Sim, 0 = Não).
+- Partner → Se o cliente tem parceiro/parceira (Sim ou Não).
+- Dependents → Se o cliente tem dependentes (filhos, outros familiares).
+- tenure → Tempo de permanência na empresa (em meses).
+- PhoneService → Se o cliente possui serviço de telefone (Sim ou Não).
+- MultipleLines → Se o cliente possui múltiplas linhas telefônicas (Sim, Não ou Não possui serviço telefônico).
+- InternetService → Tipo de serviço de internet (DSL, fibra ótica ou nenhum).
+- OnlineSecurity → Se o cliente possui segurança online (proteção contra vírus).
+- OnlineBackup → Se o cliente possui serviço de backup online.
+- DeviceProtection → Se o cliente possui proteção para seus dispositivos (manutenção, suporte).
+- TechSupport → Se o cliente possui suporte técnico.
+- StreamingTV → Se o cliente possui serviço de streaming de TV.
+- StreamingMovies → Se o cliente possui serviço de streaming de filmes.
+- Contract → Tipo de contrato do cliente (mensal, anual, bianual).
+- PaperlessBilling → Se o cliente recebe a fatura apenas online (sem papel).
+- PaymentMethod → Método de pagamento (boleto eletrônico, cheque enviado, débito automático, cartão de crédito automático).
+- MonthlyCharges → Valor da fatura mensal do cliente (em dólares).
+- TotalCharges → Valor total pago pelo cliente até o momento (em dólares).
+- Churn → Se o cliente cancelou o serviço (Sim = cancelou, Não = ainda está ativo).
 
 ## Organização do repositório
 
